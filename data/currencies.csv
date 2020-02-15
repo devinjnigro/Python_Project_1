@@ -1,0 +1,282 @@
+S.No,State or territory,Currency Name,Currency Symbol,ISO code,Fractional unit
+1,Abkhazia,Abkhazian apsar,none,none,none
+,,Russian ruble,,RUB,Kopek
+2,Afghanistan,Afghan afghani,؋,AFN,Pul
+3,Akrotiri and Dhekelia,Euro,€,EUR,Cent
+4,Albania,Albanian lek,L,ALL,Qindarkë
+5,Alderney,Alderney pound,£,none,Penny
+,,British pound,£,GBP,Penny
+,,Guernsey pound,£,GGP,Penny
+6,Algeria,Algerian dinar,د.ج,DZD,Santeem
+7,Andorra,Euro,€,EUR,Cent
+8,Angola,Angolan kwanza,Kz,AOA,Cêntimo
+9,Anguilla,East Caribbean dollar,$,XCD,Cent
+10,Antigua and Barbuda,East Caribbean dollar,$,XCD,Cent
+11,Argentina,Argentine peso,$,ARS,Centavo
+12,Armenia,Armenian dram,,AMD,Luma
+13,Aruba,Aruban florin,ƒ,AWG,Cent
+14,Ascension Island,Ascension pound,£,none,Penny
+,,Saint Helena pound,£,SHP,Penny
+15,Australia,Australian dollar,$,AUD,Cent
+16,Austria,Euro,€,EUR,Cent
+17,Azerbaijan,Azerbaijani manat,,AZN,Qəpik
+18,"Bahamas, The",Bahamian dollar,$,BSD,Cent
+19,Bahrain,Bahraini dinar,.د.ب,BHD,Fils
+20,Bangladesh,Bangladeshi taka,৳,BDT,Paisa
+21,Barbados,Barbadian dollar,$,BBD,Cent
+22,Belarus,Belarusian ruble,Br,BYR,Kapyeyka
+23,Belgium,Euro,€,EUR,Cent
+24,Belize,Belize dollar,$,BZD,Cent
+25,Benin,West African CFA franc,Fr,XOF,Centime
+26,Bermuda,Bermudian dollar,$,BMD,Cent
+27,Bhutan,Bhutanese ngultrum,Nu.,BTN,Chetrum
+,,Indian rupee,₹,INR,Paisa
+28,Bolivia,Bolivian boliviano,Bs.,BOB,Centavo
+29,Bonaire,United States dollar,$,USD,Cent
+30,Bosnia and Herzegovina,Bosnia and Herzegovina convertible mark,KM or КМ,BAM,Fening
+31,Botswana,Botswana pula,P,BWP,Thebe
+32,Brazil,Brazilian real,R$,BRL,Centavo
+33,British Indian Ocean Territory,United States dollar,$,USD,Cent
+34,British Virgin Islands,British Virgin Islands dollar,$,,Cent
+,,United States dollar,$,USD,Cent
+35,Brunei,Brunei dollar,$,BND,Sen
+,,Singapore dollar,$,SGD,Cent
+36,Bulgaria,Bulgarian lev,лв,BGN,Stotinka
+37,Burkina Faso,West African CFA franc,Fr,XOF,Centime
+38,Burundi,Burundian franc,Fr,BIF,Centime
+39,Cambodia,Cambodian riel,៛,KHR,Sen
+,,United States dollar,$,USD,Cent
+40,Cameroon,Central African CFA franc,Fr,XAF,Centime
+41,Canada,Canadian dollar,$,CAD,Cent
+42,Cape Verde,Cape Verdean escudo,Esc or $,CVE,Centavo
+43,Cayman Islands,Cayman Islands dollar,$,KYD,Cent
+44,Central African Republic,Central African CFA franc,Fr,XAF,Centime
+45,Chad,Central African CFA franc,Fr,XAF,Centime
+46,Chile,Chilean peso,$,CLP,Centavo
+47,China,Chinese yuan,¥ or 元,CNY,Fen
+48,Cocos (Keeling) Islands,Australian dollar,$,AUD,Cent
+49,Colombia,Colombian peso,$,COP,Centavo
+50,Comoros,Comorian franc,Fr,KMF,Centime
+51,"Congo, Democratic Republic of the",Congolese franc,Fr,CDF,Centime
+52,"Congo, Republic of the",Central African CFA franc,Fr,XAF,Centime
+53,Cook Islands,New Zealand dollar,$,NZD,Cent
+,,Cook Islands dollar,$,,Cent
+54,Costa Rica,Costa Rican colón,₡,CRC,Céntimo
+55,Côte d'Ivoire,West African CFA franc,Fr,XOF,Centime
+56,Croatia,Croatian kuna,kn,HRK,Lipa
+57,Cuba,Cuban convertible peso,$,CUC,Centavo
+,,Cuban peso,$,CUP,Centavo
+58,Curaçao,Netherlands Antillean guilder,ƒ,ANG,Cent
+59,Cyprus,Euro,€,EUR,Cent
+60,Czech Republic,Czech koruna,Kč,CZK,Haléř
+61,Denmark,Danish krone,kr,DKK,Øre
+62,Djibouti,Djiboutian franc,Fr,DJF,Centime
+63,Dominica,East Caribbean dollar,$,XCD,Cent
+64,Dominican Republic,Dominican peso,$,DOP,Centavo
+65,East Timor,United States dollar,$,USD,Cent
+,,,,,Centavo
+66,Ecuador,United States dollar,$,USD,Cent
+,,,,,Centavo
+67,Egypt,Egyptian pound,£ or ج.م,EGP,Piastre
+68,El Salvador,United States dollar,$,USD,Cent
+69,Equatorial Guinea,Central African CFA franc,Fr,XAF,Centime
+70,Eritrea,Eritrean nakfa,Nfk,ERN,Cent
+71,Estonia,Euro,€,EUR,Cent
+72,Ethiopia,Ethiopian birr,Br,ETB,Santim
+73,Falkland Islands,Falkland Islands pound,£,FKP,Penny
+74,Faroe Islands,Danish krone,kr,DKK,Øre
+,,Faroese króna,kr,,Oyra
+75,Fiji,Fijian dollar,$,FJD,Cent
+76,Finland,Euro,€,EUR,Cent
+77,France,Euro,€,EUR,Cent
+78,French Polynesia,CFP franc,Fr,XPF,Centime
+79,Gabon,Central African CFA franc,Fr,XAF,Centime
+80,"Gambia, The",Gambian dalasi,D,GMD,Butut
+81,Georgia,Georgian lari,ლ,GEL,Tetri
+82,Germany,Euro,€,EUR,Cent
+83,Ghana,Ghana cedi,₵,GHS,Pesewa
+84,Gibraltar,Gibraltar pound,£,GIP,Penny
+85,Greece,Euro,€,EUR,Cent
+86,Grenada,East Caribbean dollar,$,XCD,Cent
+87,Guatemala,Guatemalan quetzal,Q,GTQ,Centavo
+88,Guernsey,British pound,£,GBP,Penny
+,,Guernsey pound,£,,Penny
+89,Guinea,Guinean franc,Fr,GNF,Centime
+90,Guinea-Bissau,West African CFA franc,Fr,XOF,Centime
+91,Guyana,Guyanese dollar,$,GYD,Cent
+92,Haiti,Haitian gourde,G,HTG,Centime
+93,Honduras,Honduran lempira,L,HNL,Centavo
+94,Hong Kong,Hong Kong dollar,$,HKD,Cent
+95,Hungary,Hungarian forint,Ft,HUF,Fillér
+96,Iceland,Icelandic króna,kr,ISK,Eyrir
+97,India,Indian rupee,₹,INR,Paisa
+98,Indonesia,Indonesian rupiah,Rp,IDR,Sen
+99,Iran,Iranian rial,﷼,IRR,Dinar
+100,Iraq,Iraqi dinar,ع.د,IQD,Fils
+101,Ireland,Euro,€,EUR,Cent
+102,Isle of Man,British pound,£,GBP,Penny
+,,Manx pound,£,,Penny
+103,Israel,Israeli new shekel,₪,ILS,Agora
+104,Italy,Euro,€,EUR,Cent
+105,Jamaica,Jamaican dollar,$,JMD,Cent
+106,Japan,Japanese yen,¥,JPY,Sen
+107,Jersey,British pound,£,GBP,Penny
+,,Jersey pound,£,,Penny
+108,Jordan,Jordanian dinar,د.ا,JOD,Piastre
+109,Kazakhstan,Kazakhstani tenge,,KZT,Tïın
+110,Kenya,Kenyan shilling,Sh,KES,Cent
+111,Kiribati,Australian dollar,$,AUD,Cent
+,,Kiribati dollar,$,,Cent
+112,"Korea, North",North Korean won,₩,KPW,Chon
+113,"Korea, South",South Korean won,₩,KRW,Jeon
+114,Kosovo,Euro,€,EUR,Cent
+115,Kuwait,Kuwaiti dinar,د.ك,KWD,Fils
+116,Kyrgyzstan,Kyrgyzstani som,лв,KGS,Tyiyn
+117,Laos,Lao kip,₭,LAK,Att
+118,Latvia,Euro,€,EUR,Cent
+119,Lebanon,Lebanese pound,ل.ل,LBP,Piastre
+120,Lesotho,Lesotho loti,L,LSL,Sente
+,,South African rand,R,ZAR,Cent
+121,Liberia,Liberian dollar,$,LRD,Cent
+122,Libya,Libyan dinar,ل.د,LYD,Dirham
+123,Liechtenstein,Swiss franc,Fr,CHF,Rappen
+124,Lithuania,Euro,€,EUR,Cent
+125,Luxembourg,Euro,€,EUR,Cent
+126,Macau,Macanese pataca,P,MOP,Avo
+127,"Macedonia, Republic of",Macedonian denar,ден,MKD,Deni
+128,Madagascar,Malagasy ariary,Ar,MGA,Iraimbilanja
+129,Malawi,Malawian kwacha,MK,MWK,Tambala
+130,Malaysia,Malaysian ringgit,RM,MYR,Sen
+131,Maldives,Maldivian rufiyaa,.ރ,MVR,Laari
+132,Mali,West African CFA franc,Fr,XOF,Centime
+133,Malta,Euro,€,EUR,Cent
+134,Marshall Islands,United States dollar,$,USD,Cent
+135,Mauritania,Mauritanian ouguiya,UM,MRO,Khoums
+136,Mauritius,Mauritian rupee,₨,MUR,Cent
+137,Mexico,Mexican peso,$,MXN,Centavo
+138,Micronesia,Micronesian dollar,$,,Cent
+,,United States dollar,$,USD,Cent
+139,Moldova,Moldovan leu,L,MDL,Ban
+140,Monaco,Euro,€,EUR,Cent
+141,Mongolia,Mongolian tögrög,₮,MNT,Möngö
+142,Montenegro,Euro,€,EUR,Cent
+143,Montserrat,East Caribbean dollar,$,XCD,Cent
+144,Morocco,Moroccan dirham,د.م.,MAD,Centime
+145,Mozambique,Mozambican metical,MT,MZN,Centavo
+146,Myanmar,Burmese kyat,Ks,MMK,Pya
+147,Nagorno-Karabakh Republic,Armenian dram,,AMD,Luma
+,,Nagorno-Karabakh dram,դր.,,Luma
+148,Namibia,Namibian dollar,$,NAD,Cent
+,,South African rand,R,ZAR,Cent
+149,Nauru,Australian dollar,$,AUD,Cent
+,,Nauruan dollar,$,,Cent
+150,Nepal,Nepalese rupee,₨,NPR,Paisa
+151,Netherlands,Euro,€,EUR,Cent
+152,New Caledonia,CFP franc,Fr,XPF,Centime
+153,New Zealand,New Zealand dollar,$,NZD,Cent
+154,Nicaragua,Nicaraguan córdoba,C$,NIO,Centavo
+155,Niger,West African CFA franc,Fr,XOF,Centime
+156,Nigeria,Nigerian naira,₦,NGN,Kobo
+157,Niue,New Zealand dollar,$,NZD,Cent
+,,Niue dollar,$,,Cent
+158,Northern Cyprus,Turkish lira,,TRY,Kuruş
+159,Norway,Norwegian krone,kr,NOK,Øre
+160,Oman,Omani rial,ر.ع.,OMR,Baisa
+161,Pakistan,Pakistani rupee,₨,PKR,Paisa
+162,Palau,Palauan dollar,$,,Cent
+,,United States dollar,$,USD,Cent
+163,Palestine,Israeli new shekel,₪,ILS,Agora
+,,Jordanian dinar,د.ا,JOD,Piastre
+164,Panama,Panamanian balboa,B/.,PAB,Centésimo
+,,United States dollar,$,USD,Cent
+165,Papua New Guinea,Papua New Guinean kina,K,PGK,Toea
+166,Paraguay,Paraguayan guaraní,₲,PYG,Céntimo
+167,Peru,Peruvian nuevo sol,S/.,PEN,Céntimo
+168,Philippines,Philippine peso,₱,PHP,Centavo
+169,Pitcairn Islands,New Zealand dollar,$,NZD,Cent
+,,Pitcairn Islands dollar,$,,Cent
+170,Poland,Polish złoty,zł,PLN,Grosz
+171,Portugal,Euro,€,EUR,Cent
+172,Qatar,Qatari riyal,ر.ق,QAR,Dirham
+173,Romania,Romanian leu,lei,RON,Ban
+174,Russia,Russian ruble,₽,RUB,Kopek
+175,Rwanda,Rwandan franc,Fr,RWF,Centime
+176,Saba,United States dollar,$,USD,Cent
+177,Sahrawi Republic,Algerian dinar,د.ج,DZD,Santeem
+,,Mauritanian ouguiya,UM,MRO,Khoums
+,,Moroccan dirham,د. م.,MAD,Centime
+,,Sahrawi peseta,Ptas,,Centime
+178,Saint Helena,Saint Helena pound,£,SHP,Penny
+179,Saint Kitts and Nevis,East Caribbean dollar,$,XCD,Cent
+180,Saint Lucia,East Caribbean dollar,$,XCD,Cent
+181,Saint Vincent and the Grenadines,East Caribbean dollar,$,XCD,Cent
+182,Samoa,Samoan tālā,T,WST,Sene
+183,San Marino,Euro,€,EUR,Cent
+184,São Tomé and Príncipe,São Tomé and Príncipe dobra,Db,STD,Cêntimo
+185,Saudi Arabia,Saudi riyal,ر.س,SAR,Halala
+186,Senegal,West African CFA franc,Fr,XOF,Centime
+187,Serbia,Serbian dinar,дин. or din.,RSD,Para
+188,Seychelles,Seychellois rupee,₨,SCR,Cent
+189,Sierra Leone,Sierra Leonean leone,Le,SLL,Cent
+190,Singapore,Brunei dollar,$,BND,Sen
+,,Singapore dollar,$,SGD,Cent
+191,Sint Eustatius,United States dollar,$,USD,Cent
+192,Sint Maarten,Netherlands Antillean guilder,ƒ,ANG,Cent
+193,Slovakia,Euro,€,EUR,Cent
+194,Slovenia,Euro,€,EUR,Cent
+195,Solomon Islands,Solomon Islands dollar,$,SBD,Cent
+196,Somalia,Somali shilling,Sh,SOS,Cent
+197,Somaliland,Somaliland shilling,Sh,,Cent
+198,South Africa,South African rand,R,ZAR,Cent
+199,South Georgia and the South Sandwich Islands,British pound,£,GBP,Penny
+,,South Georgia and the South Sandwich Islands pound,£,,Penny
+200,South Ossetia,Russian ruble,,RUB,Kopek
+201,Spain,Euro,€,EUR,Cent
+202,South Sudan,South Sudanese pound,£,SSP,Piastre
+203,Sri Lanka,Sri Lankan rupee,Rs or රු,LKR,Cent
+204,Sudan,Sudanese pound,ج.س.,SDG,Piastre
+205,Suriname,Surinamese dollar,$,SRD,Cent
+206,Swaziland,Swazi lilangeni,L,SZL,Cent
+207,Sweden,Swedish krona,kr,SEK,Öre
+208,Switzerland,Swiss franc,Fr,CHF,Rappen
+209,Syria,Syrian pound,£ or ل.س,SYP,Piastre
+210,Taiwan,New Taiwan dollar,$,TWD,Cent
+211,Tajikistan,Tajikistani somoni,ЅМ,TJS,Diram
+212,Tanzania,Tanzanian shilling,Sh,TZS,Cent
+213,Thailand,Thai baht,฿,THB,Satang
+214,Togo,West African CFA franc,Fr,XOF,Centime
+215,Tonga,Tongan paʻanga,T$,TOP,Seniti
+216,Transnistria,Transnistrian ruble,р.,,Kopek
+217,Trinidad and Tobago,Trinidad and Tobago dollar,$,TTD,Cent
+218,Tristan da Cunha,Saint Helena pound,£,SHP,Penny
+,,Tristan da Cunha pound,£,,Penny
+219,Tunisia,Tunisian dinar,د.ت,TND,Millime
+220,Turkey,Turkish lira,,TRY,Kuruş
+221,Turkmenistan,Turkmenistan manat,m,TMT,Tennesi
+222,Turks and Caicos Islands,United States dollar,$,USD,Cent
+223,Tuvalu,Australian dollar,$,AUD,Cent
+,,Tuvaluan dollar,$,,Cent
+224,Uganda,Ugandan shilling,Sh,UGX,Cent
+225,Ukraine,Ukrainian hryvnia,₴,UAH,Kopiyka
+,,Russian ruble,,RUB,Kopek
+226,United Arab Emirates,United Arab Emirates dirham,د.إ,AED,Fils
+227,United Kingdom,British pound,£,GBP,Penny
+228,United States,United States dollar,$,USD,Cent
+229,Uruguay,Uruguayan peso,$,UYU,Centésimo
+230,Uzbekistan,Uzbekistani som,,UZS,Tiyin
+231,Vanuatu,Vanuatu vatu,Vt,VUV,
+232,Vatican City,Euro,€,EUR,Cent
+233,Venezuela,Venezuelan bolívar,Bs F,VEF,Céntimo
+234,Vietnam,Vietnamese đồng,₫,VND,
+235,Wallis and Futuna,CFP franc,Fr,XPF,Centime
+236,Yemen,Yemeni rial,﷼,YER,Fils
+237,Zambia,Zambian kwacha,ZK,ZMW,Ngwee
+238,Zimbabwe,Botswana pula,P,BWP,Thebe
+,,British pound,£,GBP,Penny
+,,Euro,€,EUR,Cent
+,,Indian rupee,₹,INR,Paisa
+,,South African rand,R,ZAR,Cent
+,,United States dollar,$,USD,Cent
+,,(Zimbabwean Bond),,,Cent
+,,,,,
+"For more information, kindly visit : www.downloadexcelfiles.com",,,,,

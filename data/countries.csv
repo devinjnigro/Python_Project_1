@@ -1,0 +1,250 @@
+﻿Country,CountryCode,Currency,Code
+Afghanistan,AFG,Afghani,AFN
+Aland Islands,ALA,Euro,EUR
+Albania,ALB,Lek,ALL
+Algeria,DZA,Algerian Dinar,DZD
+American Samoa,ASM,Euros,EUR
+Andorra,AND,Euros,EUR
+Angola,AGO,Angolan kwanza,AOA
+Anguilla,AIA,East Caribbean Dollar,XCD
+Antarctica,ATA,Antarctican dollar,AQD
+Antigua and Barbuda,ATG,East Caribbean Dollar,XCD
+Argentina,ARG,Peso,ARS
+Armenia,ARM,Dram,AMD
+Aruba,ABW,Netherlands Antilles Guilder,ANG
+Australian,AUS,Australian Dollars,AUD
+Austria,AUT,Euros,EUR
+Azerbaijan,AZE,Manat,AZN
+Bahamas,BHS,Bahamian Dollar,BSD
+Bahrain,BHR,Bahraini Dinar,BHD
+Bangladesh,BGD,Taka,BDT
+Barbados,BRB,Barbadian Dollar,BBD
+Belarus,BLR,Belarus Ruble,BYR
+Belgium,BEL,Euros,EUR
+Belize,BLZ,Belizean Dollar,BZD
+Benin,BEN,CFA Franc BCEAO,XOF
+Bermuda,BMU,Bermudian Dollar,BMD
+Bhutan,BTN,Indian Rupee,INR
+Bolivia,BOL,Boliviano,BOB
+Bosnia and Herzegovina,BIH,Bosnia and Herzegovina convertible mark,BAM
+Botswana,BWA,Pula,BWP
+Bouvet Island,BVT,Norwegian Krone,NOK
+Brazil,BRA,Brazil,BRL
+British Indian Ocean Territory,IOT,USD,USD
+Brunei Darussalam,BRN,Bruneian Dollar,BND
+Bulgaria,BGR,Lev,BGN
+Burkina Faso,BFA,CFA Franc BCEAO,XOF
+Burundi,BDI,Burundi Franc,BIF
+Cambodia,KHM,Riel,KHR
+Cameroon,CMR,CFA Franc BEAC,XAF
+Canada,CAN,Canadian Dollar,CAD
+Cape Verde,CPV,Escudo,CVE
+Cayman Islands,CYM,Caymanian Dollar,KYD
+Central African Republic,CAF,CFA Franc BEAC,XAF
+Chad,TCD,CFA Franc BEAC,XAF
+Chile,CHL,Chilean Peso,CLP
+China,CHN,Yuan Renminbi,CNY
+Christmas Island,CXR,Australian Dollars,AUD
+Cocos (Keeling) Islands,CCK,Australian Dollars,AUD
+Colombia,COL,Peso,COP
+Comoros,COM,Comoran Franc,KMF
+Congo (Kinshasa),COG,Congolese Frank,CDF
+Congo Republic of the Democratic,COG,CFA Franc BEAC,XAF
+Congo-Brazzaville,COG,Congolese Frank,CDF
+Cook Islands,COK,New Zealand Dollars,NZD
+Costa Rica,CRI,Costa Rican Colon,CRC
+Croatia (Hrvatska),HRV,Croatian Dinar,HRK
+Cuba,CUB,Cuban Peso,CUP
+Cyprus,CYP,Cypriot Pound,CYP
+Czech Republic,CZE,Koruna,CZK
+Denmark,DNK,Danish Krone,DKK
+Djibouti,DJI,Djiboutian Franc,DJF
+Dominica,DMA,East Caribbean Dollar,XCD
+Dominican Republic,DOM,Dominican Peso,DOP
+East Timor,TLS,Indonesian Rupiah,IDR
+Ecuador,ECU,Sucre,ECS
+Egypt,EGY,Egyptian Pound,EGP
+El Salvador,SLV,Salvadoran Colon,SVC
+Equatorial Guinea,GNQ,CFA Franc BEAC,XAF
+Eritrea,ERI,Ethiopian Birr,ETB
+Estonia,EST,Estonian Kroon,EEK
+Ethiopia,ETH,Ethiopian Birr,ETB
+Falkland Islands (Malvinas),FLK,Falkland Pound,FKP
+Faroe Islands,FRO,Danish Krone,DKK
+Fiji,FJI,Fijian Dollar,FJD
+Finland,FIN,Euros,EUR
+France,FRA,Euros,EUR
+French Guiana,GUF,Euros,EUR
+French Polynesia,PYF,CFP Franc,XPF
+French Southern Territories,ATF,Euros,EUR
+Gabon,GAB,CFA Franc BEAC,XAF
+Gambia,GMB,Dalasi,GMD
+Georgia,GEO,Lari,GEL
+Germany,DEU,Euros,EUR
+Ghana,GHA,Ghana cedi,GHS
+Gibraltar,GIB,Gibraltar Pound,GIP
+Greece,GRC,Euros,EUR
+Greenland,GRL,Danish Krone,DKK
+Grenada,GRD,East Caribbean Dollar,XCD
+Guadeloupe,GLP,Euros,EUR
+Guam,GUM,USD,USD
+Guatemala,GTM,Quetzal,GTQ
+Guernsey,GGY,Guernsey pound,GGP
+Guinea,GIN,Guinean Franc,GNF
+Guinea-Bissau,GNB,CFA Franc BCEAO,XOF
+Guyana,GUY,Guyanaese Dollar,GYD
+Haiti,HTI,Gourde,HTG
+Heard and Mc Donald Islands,HMD,Australian Dollars,AUD
+Honduras,HND,Lempira,HNL
+Hong Kong,HKG,HKD,HKD
+Hungary,HUN,Forint,HUF
+Iceland,ISL,Icelandic Krona,ISK
+India,IND,Indian Rupee,INR
+Indonesia,IDN,Indonesian Rupiah,IDR
+Iran (Islamic Republic of),IRN,Iranian Rial,IRR
+Iraq,IRQ,Iraqi Dinar,IQD
+Ireland,IRL,Euros,EUR
+Isle of Man,IMN,Manx pound,GBP
+Israel,ISR,Shekel,ILS
+Italy,ITA,Euros,EUR
+Ivory Coast,CIV,CFA Franc BCEAO,XOF
+Jamaica,JAM,Jamaican Dollar,JMD
+Japan,JPN,Japanese Yen,JPY
+Jersey,JEY,Sterling,GBP
+Jordan,JOR,Jordanian Dinar,JOD
+Kazakhstan,KAZ,Tenge,KZT
+Kenya,KEN,Kenyan Shilling,KES
+Kiribati,KIR,Australian Dollars,AUD
+Korea North,PKR,Won,KPW
+Korea South,KOR,Won,KRW
+Kuwait,KWT,Kuwaiti Dinar,KWD
+Kyrgyzstan,KGZ,Som,KGS
+Lao PeopleÕs Democratic Republic,LAO,Kip,LAK
+Laos,LAO,Lao kip,LAK
+Latvia,LVA,Lat,LVL
+Lebanon,LBN,Lebanese Pound,LBP
+Lesotho,LSO,Loti,LSL
+Liberia,LBR,Liberian Dollar,LRD
+Libyan Arab Jamahiriya,LBY,Libyan Dinar,LYD
+Liechtenstein,LIE,Swiss Franc,CHF
+Lithuania,LTU,Lita,LTL
+Luxembourg,LUX,Euros,EUR
+Macao S.A.R.,MO,Macanese pataca,MOP
+Macau,MO,Pataca,MOP
+Macedonia,MK,Denar,MKD
+Madagascar,MDG,Malagasy Franc,MGA
+Malawi,MWI,Malawian Kwacha,MWK
+Malaysia,MYS,Ringgit,MYR
+Maldives,MDV,Rufiyaa,MVR
+Mali,MLI,CFA Franc BCEAO,XOF
+Malta,MLT,Maltese Lira,MTL
+Marshall Islands,MHL,USD,USD
+Martinique,MTQ,Euros,EUR
+Mauritania,MRT,Ouguiya,MRO
+Mauritius,MUS,Mauritian Rupee,MUR
+Mayotte,MYT,Euros,EUR
+Mexico,MEX,Peso,MXN
+Micronesia Federated States of,FSM,USD,USD
+Moldova Republic of,MDA,Leu,MDL
+Monaco,MCO,Euros,EUR
+Mongolia,MNG,Tugrik,MNT
+Montenegro,MNE,Euro,EUR
+Montserrat,MSR,East Caribbean Dollar,XCD
+Morocco,MAR,Dirham,MAD
+Mozambique,MOZ,Metical,MZN
+Myanmar,MMR,Kyat,MMK
+Namibia,NAM,Dollar,NAD
+Nauru,NRU,Australian Dollars,AUD
+Nepal,NPL,Nepalese Rupee,NPR
+Netherlands,NLD,Euros,EUR
+Netherlands Antilles,ANT,Netherlands Antilles Guilder,ANG
+New Caledonia,NCL,CFP Franc,XPF
+New Zealand,NZL,New Zealand Dollars,NZD
+Nicaragua,NIC,Cordoba Oro,NIO
+Niger,NER,CFA Franc BCEAO,XOF
+Nigeria,NGA,Naira,NGN
+Niue,NIU,New Zealand Dollars,NZD
+Norfolk Island,NFK,Australian Dollars,AUD
+Northern Mariana Islands,MNP,USD,USD
+Norway,NOR,Norwegian Krone,NOK
+Oman,OMN,Sul Rial,OMR
+Pakistan,PAK,Rupee,PKR
+Palau,PLW,USD,USD
+Palestinian Territory,PSE,Jordanian dinar,JOD
+Panama,PAN,Balboa,PAB
+Papua New Guinea,PNG,Kina,PGK
+Paraguay,PRY,Guarani,PYG
+Peru,PER,Nuevo Sol,PEN
+Philippines,PHL,Peso,PHP
+Pitcairn,PCN,New Zealand Dollars,NZD
+Poland,POL,Zloty,PLN
+Portugal,PRT,Euros,EUR
+Puerto Rico,PRI,USD,USD
+Qatar,QAT,Rial,QAR
+Reunion,REU,Euros,EUR
+Romania,ROU,Leu,RON
+Russian Federation,RUS,Ruble,RUB
+Rwanda,RWA,Rwanda Franc,RWF
+Saint Barthelemy,BLM,Euro,EUR
+Saint Helena,SHN,Saint Helena pound,GBP
+Saint Kitts,KNA,East Caribbean Dollar,XCD
+Saint Lucia,LCA,East Caribbean Dollar,XCD
+Saint Martin (French part),MAF,Netherlands Antillean guilder,ANG
+Saint Pierre and Miquelon,SPM,Euro,EUR
+Saint Vincent Grenadines,VCT,East Caribbean Dollar,XCD
+Samoa,WSM,Euros,EUR
+San Marino,SMR,Euros,EUR
+Sao Tome and Principe,STP,Dobra,STD
+Saudi Arabia,SAU,Riyal,SAR
+Senegal,SEN,CFA Franc BCEAO,XOF
+Serbia,SRB,Serbian dinar,RSD
+Seychelles,SYC,Rupee,SCR
+Sierra Leone,SLE,Leone,SLL
+Singapore,SGP,Dollar,SGD
+Slovakia (Slovak Republic),SVK,Koruna,SKK
+Slovenia,SVN,Euros,EUR
+Solomon Islands,SLB,Solomon Islands Dollar,SBD
+Somalia,SOM,Shilling,SOS
+South Africa,ZAF,Rand,ZAR
+South Georgia and the South Sandwich Islands,SGS,Sterling,GBP
+Spain,ESP,Euros,EUR
+Sri Lanka,LKA,Rupee,LKR
+Sudan,SDN,Dinar,SDG
+Suriname,SUR,Surinamese Guilder,SRD
+Svalbard and Jan Mayen Islands,SJM,Norwegian Krone,NOK
+Swaziland,SWZ,Lilangeni,SZL
+Sweden,SWE,Krona,SEK
+Switzerland,CHE,Swiss Franc,CHF
+Syrian Arab Republic,SYR,Syrian Pound,SYP
+Taiwan,TWN,Dollar,TWD
+Tajikistan,TJK,Tajikistan Ruble,TJS
+Tanzania,TZA,Shilling,TZS
+Thailand,THA,Baht,THB
+Togo,TGO,CFA Franc BCEAO,XOF
+Tokelau,TKL,New Zealand Dollars,NZD
+Tonga,TON,PaÕanga,TOP
+Trinidad and Tobago,TTO,Trinidad and Tobago Dollar,TTD
+Tunisia,TUN,Tunisian Dinar,TND
+Turkey,TUR,Lira,TRY
+Turkmenistan,TKM,Manat,TMT
+Turks and Caicos Islands,TCA,USD,USD
+Tuvalu,TUV,Australian Dollars,AUD
+Uganda,UGA,Shilling,UGX
+Ukraine,UKR,Hryvnia,UAH
+United Arab Emirates,ARE,Dirham,AED
+United Kingdom,GBR,Sterling,GBP
+United States,USA,USD,USD
+United States Minor Outlying Islands,UMI,USD,USD
+Uruguay,URY,Peso,UYU
+Uzbekistan,UZB,Som,UZS
+Vanuatu,VUT,Vatu,VUV
+Vatican City State (Holy See),VAT,Euros,EUR
+Venezuela,VEN,Bolivar,VEF
+Vietnam,VNM,Dong,VND
+Virgin Islands (British),VGB,USD,USD
+Virgin Islands (US),VIR,USD,USD
+Wallis and Futuna Islands,WLF,CFP Franc,XPF
+Western Sahara,ESH,Dirham,MAD
+Yemen,YEM,Rial,YER
+Zambia,ZMB,Kwacha,ZMK
+Zimbabwe,ZWE,Zimbabwe Dollar,ZWD
