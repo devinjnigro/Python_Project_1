@@ -4,7 +4,7 @@
 Devin Nigro\
 Kebbin Eke\
 Mohan Nilavar\
-Song Zhao\
+Song Zhao
 
 
 ## Background:
