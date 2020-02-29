@@ -1,11 +1,7 @@
-### Python_Project_1
-### Team 2
-
-
 # Currency Exchange Dashboard for Travel Agency
 
-## Team members:
-Devin Nigro
+## Team 2: members:
+Devin Nigro\
 Kebbin Eke
 Mohan Nilavar
 Song Zhao
