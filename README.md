@@ -2,9 +2,9 @@
 
 ## Team 2: members:
 Devin Nigro\
-Kebbin Eke
-Mohan Nilavar
-Song Zhao
+Kebbin Eke\
+Mohan Nilavar\
+Song Zhao\
 
 
 ## Background:
